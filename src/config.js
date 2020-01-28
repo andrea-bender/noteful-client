@@ -1,3 +1,3 @@
 export default {
-  API_ENDPOINT: `https://glaiza-noteful-server.herokuapp.com/api`,
-}
+	API_ENDPOINT: `https://andrea-noteful-server.herokuapp.com/api`
+};
